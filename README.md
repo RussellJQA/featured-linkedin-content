@@ -4,6 +4,8 @@ Because LinkedIn posts don't support Markdown, some of my posts may look better 
 
 Here's my first featured post:
 
-#### 1. [ChatGPT 'study mode': A new ChatGPT mode which helps you think for yourself! 🤔 Rather than having ChatGPT do you thinking for you! 🧠🚫](https://www.linkedin.com/posts/activity-7356801249792417794-uBuR/) — posted July 31, 2025
+### **• 1.** [ChatGPT 'study mode': A new ChatGPT mode which helps you think for yourself! 🤔 Rather than having ChatGPT do you thinking for you! 🧠🚫](https://www.linkedin.com/posts/activity-7356801249792417794-uBuR/) — posted July 31, 2025
 
 !['The Thinker' thinking 'A new ChatGPT mode which helps you think for yourself!; Chatbot thinking 'Rather than having me do your thinking for you!'](posts/20250731-chatgpt-study-mode/chatGptStudyMode.png)
+
+My comment(s) on the post: [#1](posts/20250731-chatgpt-study-mode/comment1.md)
