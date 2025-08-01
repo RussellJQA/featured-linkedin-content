@@ -1,4 +1,4 @@
-I created this as a repository to feature some of [my LinkedIn](https://www.linkedin.com/in/russelljqa/) [articles](https://www.linkedin.com/in/russelljqa/recent-activity/articles/), [posts](https://www.linkedin.com/in/russelljqa/recent-activity/all/), and associated files (image files, .gifs, .py files, .ipynb files, etc.)
+I created this repository to feature some of [my LinkedIn](https://www.linkedin.com/in/russelljqa/) [articles](https://www.linkedin.com/in/russelljqa/recent-activity/articles/), [posts](https://www.linkedin.com/in/russelljqa/recent-activity/all/), and associated files (image files, .gifs, .py files, .ipynb files, etc.)
 
 Because LinkedIn posts don't support Markdown, some of my posts may look better here than on LinkedIn.
 
