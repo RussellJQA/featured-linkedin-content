@@ -156,3 +156,4 @@ cython_debug/
 
 # Custom
 **/.private/
+.vscode/ltex.*.en-US.txt

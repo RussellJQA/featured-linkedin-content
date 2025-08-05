@@ -1,0 +1,4 @@
+aisetup
+ipykernel
+ipython
+Pillow
