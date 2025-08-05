@@ -1,5 +1,5 @@
 # The Google Brain Project
-by gpt-4o-mini
+&nbsp;&nbsp;&nbsp;&nbsp;*(by gpt-4o-mini)*
 
 In silicon's embrace, great minds unite,
 With Andrew Ng, a pioneer so bold,
