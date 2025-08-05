@@ -2,7 +2,7 @@
 
 With so many free introductory Python courses online, is there really a need for another? My answer is a definite "yes."
 
-I recently completed DeepLearning.ai’s free, four-week [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) course. Although I already knew the basics of Python, I hadn’t programmed extensively with it. And I saw the course as a good way to familiarize myself with DeepLearning.ai’s learning platform and to introduce me to some of the ways Python can interface with AI.
+I recently completed [DeepLearning.AI](https://www.linkedin.com/company/deeplearningai/)’s free, four-week [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) course. Although I already knew the basics of Python, I hadn’t programmed extensively with it. And I saw the course as a good way to familiarize myself with DeepLearning.ai’s learning platform and to introduce me to some of the ways Python can interface with AI.
 
 The course is divided into four "weeks," each with a different focus.
 
@@ -26,7 +26,7 @@ We explored some of Python’s built-in packages like math, statistics, and rand
 I can’t share with you the actual code we used in the course. So, I’ve instead included two Jupyter notebooks that do things similar to what was done in the course:
 - [zen_of_python.ipynb](zen_of_python.ipynb): A Jupyter notebook that asks an LLM about the "Zen of Python"
 - [cat_sonnet_project.ipynb](cat_sonnet_project.ipynb): A Jupyter notebook that prompts an LLM with:
-    - Write a sonnet about the Google Brain Project, mentioning the involvement of both Andrew Ng and Jeff Dean, and why the latter has sometimes been called the "cat man".
+    - Write [a sonnet about the Google Brain Project](sonnet.md), mentioning the involvement of both [Andrew Ng](https://www.linkedin.com/in/andrewyng/) and [Jeff Dean](https://www.linkedin.com/in/jeff-dean-8b212555/), and why the latter has sometimes been called the "cat man".
     - The poem should be in Shakespearean style, with each line exactly 10 syllables long and a rhyme scheme of ABABCDCDEFEFGG.
     - Precede the poem with a title in bold, and ensure that the poem is formatted in Markdown.
 

@@ -8,10 +8,12 @@
 - [QuillBot Grammar Checker](https://quillbot.com/grammar-check)
 - [LanguageTool](https://languagetool.org/)
 
-3. AI used for coding assistance:
+3. Writing improvement suggestions: [Perplexity AI](https://www.perplexity.ai/)
+
+4. AI used for coding assistance:
 - Chatbots: Primarily [Claude](https://claude.ai)
 - [GitHub Copilot](https://docs.github.com/en/copilot)
 - [Perplexity AI](https://www.perplexity.ai/)
 
-4. Image creation:
+5. Image creation:
 - Primarily, if not exclusively: [ChatGPT](https://chatgpt.com/)
