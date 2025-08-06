@@ -1,6 +1,6 @@
 I created this GitHub repository to highlight some of [my LinkedIn](https://www.linkedin.com/in/russelljqa/) [articles](https://www.linkedin.com/in/russelljqa/recent-activity/articles/) and [posts](https://www.linkedin.com/in/russelljqa/recent-activity/all/), and their associated code and/or image files.
 
-Because LinkedIn posts don't support Markdown, some of my posts may look better here than on LinkedIn. Hopefully, though, my articles will look essentially the same here and on LinkedIn.
+Because LinkedIn posts don't support Markdown, some of my posts may look better here than on LinkedIn. My articles should look essentially the same here and on LinkedIn, except that LinkedIn doesn't allow an article's featured image to be an animated .gif file.
 
 ## Here's the first article I'm highlighting:
 

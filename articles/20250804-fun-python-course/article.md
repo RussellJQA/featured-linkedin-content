@@ -4,6 +4,8 @@ With so many free introductory Python courses online, is there really a need for
 
 I recently completed [DeepLearning.AI](https://www.linkedin.com/company/deeplearningai/)’s free, four-week [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) course. Although I already knew the basics of Python, I hadn’t programmed extensively with it. And I saw the course as a good way to familiarize myself with DeepLearning.ai’s learning platform and to introduce me to some of the ways Python can interface with AI.
 
+![.GIF showing 2 Jupyter notebooks, an 'Is this a cat?' slide show, and my course certificate](images/fun-python-course.gif)
+
 The course is divided into four "weeks," each with a different focus.
 
 ## Week 1: Basics of AI Python Coding
