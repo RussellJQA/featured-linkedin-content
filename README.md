@@ -11,7 +11,7 @@ Posted August 1, 2025<br>
 - [The article's GitHub README.md](articles\20250801-fun-python-course\README.md)<br>
 - [The article on LinkedIn](https://www.linkedin.com/pulse/free-fun-ai-focused-introduction-python-yes-taught-googles-johnson-py6oc)
 
-![.GIF showing 2 Jupyter notebooks, an 'Is this a cat?' slide show, and my course certificate](articles/20250801-fun-python-course/images/fun-python-course.gif)
+![.GIF showing 2 Jupyter notebooks, an 'Is this a cat?' slide show, and my course certificate](articles/20250804-fun-python-course/images/fun-python-course.gif)
 
 ## And the first post I'm highlighting:
 
