@@ -7,8 +7,8 @@ Because LinkedIn posts don't support Markdown, some of my posts may look better 
 ### **- 1.** Free, Fun, AI-Focused Introduction to Python? - Yes; Taught by Google's 'cat-man'? - Yes and No
 Posted August 1, 2025<br>
 
-- [The article on GitHub](articles\20250804-fun-python-course\article.md)<br>
-- [The article's GitHub README.md](articles\20250804-fun-python-course\README.md)<br>
+- [The article on GitHub](articles/20250804-fun-python-course/article.md)<br>
+- [The article's GitHub README.md](articles/20250804-fun-python-course/README.md)<br>
 - [The article on LinkedIn](https://www.linkedin.com/pulse/free-fun-ai-focused-introduction-python-yes-taught-googles-johnson-py6oc)
 
 ![.GIF showing 2 Jupyter notebooks, an 'Is this a cat?' slide show, and my course certificate](articles/20250804-fun-python-course/images/fun-python-course.gif)
